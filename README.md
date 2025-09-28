@@ -1,7 +1,5 @@
 # Laravel User Discounts Package
 
-[![tests](https://github.com/divpandya10/laravel-package-user-discounts/actions/workflows/tests.yml/badge.svg)](https://github.com/divpandya10/laravel-package-user-discounts/actions/workflows/tests.yml)
-
 A comprehensive Laravel package for managing user-level discounts with deterministic stacking, comprehensive auditing, and concurrency safety.
 
 ## Features
